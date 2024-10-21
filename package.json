@@ -1,0 +1,14 @@
+{
+  "name": "store-pos",
+  "version": "1.0.0",
+  "description": "Point of Sale system for desktop application",
+  "main": "main.js",
+  "author": "Monther Tuwati",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^33.0.1"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
